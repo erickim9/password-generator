@@ -15,3 +15,8 @@ How to Run:
   OR
   
   python3 password_generator_project.py
+
+
+  Why I made this:
+
+  I built this project because I hate going to sketchy websites and asking them to generate a password. If they encounter a unlikely breach, the info might be used to link the password to me. Also, this project helped me practice Python and learn more about randomization.
